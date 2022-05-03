@@ -1,0 +1,15 @@
+export const data = [
+  "Ethersjs",
+  "Solidity",
+  "Hardhat",
+  "ERC-20 & ERC-721",
+  "React",
+  "TypeScript",
+  "GraphQL",
+  "NodeJS",
+  "NextJS",
+  "CSS-in-JS",
+  "Version Control",
+  "REST API",
+  "Firebase",
+];
