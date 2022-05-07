@@ -1,5 +1,11 @@
 export const data = [
   {
+    title: "Ropsten Faucet",
+    url: "https://ropsten-faucet.vercel.app/",
+    description:
+      "A Ropsten faucet allowing users to deposit to and receive ETH from the community.",
+  },
+  {
     title: "Web3 High Low",
     url: "https://web3-high-low.vercel.app/",
     description:

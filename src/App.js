@@ -12,9 +12,10 @@ function App() {
       <div className={s.container}>
         <Header />
         <div className={s.line} />
+        <Projects />
+        <div className={s.line} />
         <Skills />
         <Work />
-        <Projects />
         <Notes />
       </div>
       <Footer />
