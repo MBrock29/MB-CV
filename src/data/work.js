@@ -12,7 +12,7 @@ export const data = [
   },
   {
     company: "Osprey Flight Solutions",
-    title: "Junior Front-End Developer",
+    title: "Front-End Developer",
     dates: "Jun 2021 - Sept 2021",
     bullets: [
       "Building company dashboard for new flight risk management software using React, Typescript, Storybook, Mapbox GL and GitKraken.",
