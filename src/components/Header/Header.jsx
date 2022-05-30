@@ -1,5 +1,5 @@
 import s from "./Header.module.scss";
-import Logo from "../../assets/punk.png";
+import Logo from "../../assets/me.jpg";
 import { FaPhone, FaChrome, FaLinkedinIn, FaGithub } from "react-icons/fa";
 import { MdOutlineMail } from "react-icons/md";
 
